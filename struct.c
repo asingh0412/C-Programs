@@ -16,8 +16,8 @@ Point point = {4, 5, 6};
 
 int main (void)
 {
-	struct Point start;
-	struct Point end = {0, 0, 0};
+	Point start;
+	Point end = {0, 0, 0};
 
 //	start.x = 3;
 //	start.y = 4; 
